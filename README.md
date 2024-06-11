@@ -22,6 +22,6 @@ This is a simple news web-app, using HTML, CSS, Js & API.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at satyajitmaity0123@gmail.com
+If you have any feedback, please reach out to us at satyacharan9595@gmail.com
 
 
