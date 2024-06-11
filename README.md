@@ -12,8 +12,6 @@ This is a simple news web-app, using HTML, CSS, Js & API.
 - Cool UI
 
 
-<a href='https://www.linkpicture.com/view.php?img=LPic64b95bc2144341210674803'><img align="left" src='https://www.linkpicture.com/q/Screenshot-11_4.png' type='image'></a>
-
 ## Optimizations
 
 - Change ui to look even better
