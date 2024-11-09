@@ -1,5 +1,7 @@
 
-# News web-app 
+# News web-app  
+
+**https://charan6365.github.io/SC_NEWS/**
 
 This is a simple news web-app, using HTML, CSS, Js & API.
 
